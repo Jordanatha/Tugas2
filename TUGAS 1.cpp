@@ -14,6 +14,7 @@ int main (){
 		total += number;
 	}
 	cout<<total<<endl;
+	haha;
 	
 	return 0;
 }
